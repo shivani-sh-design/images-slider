@@ -1,7 +1,6 @@
 const slides = document.querySelectorAll(".slide");
 const slideImg = document.querySelectorAll(".slide-img")
 const nextBtn = document.querySelector(".nextBtn");
-const prevBtn = document.querySelector(".prevBtn");
 const img1 = document.querySelector('.img1');
 const img2 = document.querySelector('.img2');
 const img3 = document.querySelector('.img3');
